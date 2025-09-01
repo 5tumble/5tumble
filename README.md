@@ -1,6 +1,5 @@
 # 👋 Hi there,
 
-## 🚀 Full-Stack Developer | DevOps Engineer | Problem Solver
 
 ## 🛠️ Tech Stack
 
